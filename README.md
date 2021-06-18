@@ -1,11 +1,8 @@
 # LanguageTechnologyProject
 
-This project consists of three files: 
-
+This project consists of three files:
 -bert.ipynb
-
 -ff.ipynb
-
 -data_distribution.ipynb
 
 Along with a folder for the datafiles, containing:
