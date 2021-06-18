@@ -1,14 +1,21 @@
 # LanguageTechnologyProject
 
 This project consists of three files:
+
 -bert.ipynb
+
 -ff.ipynb
+
 -data_distribution.ipynb
 
 Along with a folder for the datafiles, containing:
+
 -X_test.pickle
+
 -X_train.pickle
+
 -y_test.pickle
+
 -y_train.pickle
 
 The data_distribution file can be run to analyse the train and test set, giving an overview of the distribution of labels and of sentence length (after tokenization). It also contains information on the different data sources.
